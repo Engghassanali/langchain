@@ -1,0 +1,6 @@
+ibm-cos-sdk
+PyPDF2
+pinecone-client
+sentence-transformers
+openai==0.28
+python-dotenv
